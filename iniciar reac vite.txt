@@ -1,0 +1,5 @@
+cd C:\Users\PC\OneDrive\Escritorio\citas-react
+npm run dev
+
+exportar solucion
+npm run built
